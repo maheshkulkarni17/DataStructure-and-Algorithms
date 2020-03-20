@@ -1,2 +1,1 @@
-# Chapel-Programs
-Chapel Programs for beginners
+Data Structure And Algorithms
